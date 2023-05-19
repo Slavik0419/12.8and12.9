@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\lab_9_ap\lab_9_ap\Source.cpp(115,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab_9_ap.vcxproj -> C:\Users\user\source\repos\lab_9_ap\x64\Debug\lab_9_ap.exe

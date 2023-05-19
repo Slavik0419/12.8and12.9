@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest1.cpp
+C:\Users\user\source\repos\lab_9_ap\lab_9_ap\Source.cpp(113,55): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\lab_9_ap\UnitTest1\UnitTest1.cpp(22,1): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+     Создается библиотека C:\Users\user\source\repos\lab_9_ap\x64\Debug\UnitTest1.lib и объект C:\Users\user\source\repos\lab_9_ap\x64\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\user\source\repos\lab_9_ap\x64\Debug\UnitTest1.dll
